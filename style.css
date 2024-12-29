@@ -24,6 +24,7 @@ html,body{
 
 /* Jutify  */
 #j1{
+    padding: 10px;
 text-align: justify center;
 }
 
